@@ -1,0 +1,58 @@
+body {
+  font-family: Georgia, serif;
+  margin: 0;
+  padding: 0;
+  ;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #0400fd;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: #001ec5;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  color: #333;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+}
+
+
+main {
+  margin: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.LAST_TO_LEAVE_THE_HOUSE {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  background-color: #419B45;
+}
+
